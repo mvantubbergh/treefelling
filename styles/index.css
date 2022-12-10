@@ -1,0 +1,19 @@
+.cover-heading {
+    margin-top: 1rem;
+}
+
+.card-img-top {
+    height: 40%;
+    width: 50%;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.btn-secondary {
+    margin-top: 2rem;
+}
+
+.in-button {
+    margin-left: 1rem;
+    font-weight: 700;
+}
